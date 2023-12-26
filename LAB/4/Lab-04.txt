@@ -1,0 +1,11 @@
+Create a class Bird with four overloaded constructors with varying print statements —
+Bird() — Print “A bird is flying.”
+Bird(String name) — Print “<Name> is flying.”
+Bird(String name, int height) — Print “<Name> is flying at height <height> metres.”
+Bird(String name, int height, int speed) — Print “<Name> is flying at height <height> metres and at speed <speed> metres per second.
+
+Class Bird has no attributes or methods.
+*******************************************************************************
+Create a public class named Car with private attributes for the make (String), model (String), year (int) of the car and mileage (float). Create public getter and setter methods for each attribute. Create a constructor that initialises all the attributes. Create a public method named display that displays all the attributes of the car.
+Define an overloaded method named "cost" which takes distance (float) and cost of petrol per litre (float) as arguments and returns the cost of the journey (float). Another method version of "cost" takes in only cost of petrol per litre (float) as the argument and returns the cost to drive for a distance of 1km (float).
+
