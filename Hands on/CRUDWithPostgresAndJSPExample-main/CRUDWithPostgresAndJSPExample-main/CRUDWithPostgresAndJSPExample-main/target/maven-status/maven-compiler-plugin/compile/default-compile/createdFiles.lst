@@ -1,0 +1,5 @@
+com\example\jspdemo\MainApplication.class
+com\example\jspdemo\model\Student.class
+com\example\jspdemo\repo\IStudentRepository.class
+com\example\jspdemo\controller\StudentController.class
+com\example\jspdemo\service\StudentService.class
